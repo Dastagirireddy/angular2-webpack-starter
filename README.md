@@ -18,5 +18,5 @@ $ npm run production
 ## Run
 
 ```
-$ npm run start
+$ npm start
 ```
