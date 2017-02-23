@@ -13,7 +13,7 @@ $ npm run build
 ## Build (Production)
 
 ```
-$ npm run build:prod
+$ npm run production
 ```
 ## Run
 
